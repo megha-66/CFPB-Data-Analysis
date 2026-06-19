@@ -5,3 +5,6 @@ CFPB ( Consumer Financial Protection Bureau ) is a 21st-century US govt. agency 
 # About the Data
 
 The dataset used in the analysis is a subset of the Consumer Complaint Database, published on the [official CFPB website](https://www.consumerfinance.gov/data-research/consumer-complaints/). Complaints that the CFPB sends to companies for response are published in this database after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.
+
+The timeframe selected for the subset is mid-March to mid-June. The data can be downloaded [here](https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_max=2026-06-16&date_received_min=2026-03-16&field=all&format=csv&no_aggs=true&size=1891317).
+
