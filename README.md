@@ -8,3 +8,14 @@ The dataset used in the analysis is a subset of the Consumer Complaint Database,
 
 The timeframe selected for the subset is mid-March to mid-June. The data can be downloaded [here](https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_max=2026-06-16&date_received_min=2026-03-16&field=all&format=csv&no_aggs=true&size=1891317).
 
+
+# Dashboard 
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/c41b8e02-c4a9-469e-b2b5-88d7b6620421" />
+<p>
+  
+</p>
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/d5af4487-10b3-48eb-bfb6-bbc17b8f1654" />
+
+
+
